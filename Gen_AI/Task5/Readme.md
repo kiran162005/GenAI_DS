@@ -49,5 +49,3 @@ The model successfully predicts POS tags for input sentences with good accuracy.
 ## 📌 Conclusion
 BERT provides strong performance for NLP sequence labeling tasks due to its contextual understanding.
 
-## 🔗 Author
-Kiran T
