@@ -124,3 +124,25 @@ pip install langchain langchain-core
 
 ---
 
+## 📌 Example Output
+
+INPUT:
+topic = Python
+audience = beginner
+tone = fun
+style = teaching
+
+OUTPUT:
+Explain Python for beginner in a fun teaching style
+
+---
+
+## ⚠️ Important Notes
+
+* No f-strings are used ❌
+* PromptTemplate is used everywhere ✅
+* Code is modular and reusable ✅
+* Logic is separated from templates ✅
+
+---
+
