@@ -90,3 +90,37 @@ Invalid inputs are automatically handled with default values.
 
 ---
 
+### ✅ Task 6: Prompt Generator Function
+
+Created a reusable function:
+
+generate_prompt(topic, audience, tone, style)
+
+This function dynamically generates prompts based on user inputs.
+
+---
+
+### ✅ Task 7: Template Reusability Test
+
+Tested one template with multiple inputs to ensure:
+
+* Same structure
+* Different outputs
+
+---
+
+## 🚀 How to Run the Project
+
+1. Install dependencies:
+
+```bash
+pip install langchain langchain-core
+```
+
+2. Run the notebook:
+
+* Open in Jupyter Notebook or Google Colab
+* Execute cells step by step
+
+---
+
