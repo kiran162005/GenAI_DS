@@ -65,3 +65,28 @@ Built multiple templates for different use cases:
 
 ---
 
+### ✅ Task 4: ChatPromptTemplate System
+
+Implemented chat-style prompts with roles:
+
+* Teacher
+* Interviewer
+* Motivator
+
+This simulates real conversational AI systems.
+
+---
+
+### ✅ Task 5: Input Validation Layer
+
+Validated user inputs before generating prompts.
+
+Rules:
+
+* audience → beginner, intermediate, expert
+* tone → formal, casual, fun
+
+Invalid inputs are automatically handled with default values.
+
+---
+
