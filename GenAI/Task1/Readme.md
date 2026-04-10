@@ -26,3 +26,19 @@ The goal of this project is to understand how real-world Generative AI systems h
 
 ---
 
+## ⚙️ Project Pipeline
+
+The system follows this flow:
+
+User Input → Validation → Prompt Template → Dynamic Prompt Generation → Output
+
+---
+
+## 📂 Tasks Implemented
+
+### ✅ Task 1: Replace Hardcoded Prompts
+
+Converted static f-string prompts into reusable `PromptTemplate`.
+
+---
+
