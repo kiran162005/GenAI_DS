@@ -42,3 +42,26 @@ Converted static f-string prompts into reusable `PromptTemplate`.
 
 ---
 
+### ✅ Task 2: Multi-Input Prompt System
+
+Created a template with multiple inputs:
+
+* topic
+* audience
+* tone
+
+Example:
+Explain AI for beginners in a friendly tone
+
+---
+
+### ✅ Task 3: Prompt Variations Engine
+
+Built multiple templates for different use cases:
+
+* Teaching → Step-by-step explanation
+* Interview → Question generation
+* Storytelling → Narrative explanation
+
+---
+
